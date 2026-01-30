@@ -9,9 +9,6 @@
 - [Reference Architecture](./docs/REFERENCE_ARCHITECTURE.md)
 
 ## Development
-```bash
-npm install
-npm run dev
-```
 
-Then open `http://localhost:5173` to explore the simulation UI.
+Deployed on Vercel at the following URL domain:
+https://maxwell-s-demon-simulation.vercel.app/
